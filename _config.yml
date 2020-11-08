@@ -21,7 +21,7 @@
 title: Jintian
 email: k20095206@kcl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog of Jintian from the module cultural website.
+  Blog of Jintian from the module called cultural website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Liujintian7777
