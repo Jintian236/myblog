@@ -7,6 +7,8 @@ categories: jekyll update
 
 ## Welcome again!
 
-This is the blog of Jintian Liu
+This is the blog of Jintian
 
 Happy to see **you** here!
+
+Have you just wondered how easy I get there.
